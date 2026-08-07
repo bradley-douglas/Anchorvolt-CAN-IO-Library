@@ -1,5 +1,23 @@
 {
   "schema": 1,
   "product": "CAN-IO-PRO",
-  "profiles": []
+  "profiles": [
+    {
+      "id": "anchorvolt_test_automation_validation_2099",
+      "make": "Anchorvolt TEST ONLY",
+      "model": "Automation Validation - Do Not Install",
+      "year": "2099",
+      "status": "Experimental",
+      "can_protocol": "Classical CAN",
+      "arbitration_bit_rate": 500000,
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/anchorvolt-test-automation-validation-2099.avp",
+      "sha256": "0154e996238fc8308ba7a70f32ff368445b6dac0934e927fca6d97775529f4b2",
+      "functions": [
+        {
+          "key": "workflow_test_signal",
+          "name": "TEST ONLY - Workflow signal"
+        }
+      ]
+    }
+  ]
 }
