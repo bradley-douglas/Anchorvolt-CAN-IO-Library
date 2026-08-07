@@ -3,6 +3,57 @@
   "product": "CAN-IO-PRO",
   "profiles": [
     {
+      "id": "anchorvolt_test_status_field_tested_2097",
+      "make": "Anchorvolt TEST ONLY",
+      "model": "Approval Status Demonstrator",
+      "year": "2097",
+      "status": "Field tested",
+      "can_protocol": "Classical CAN",
+      "arbitration_bit_rate": 500000,
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/anchorvolt-test-status-field-tested-2097.avp",
+      "sha256": "824a57ef1bd63c3b5e4db856f1e272e3a1c780c2fa8c38b746965f5446b47a4e",
+      "functions": [
+        {
+          "key": "status_demo_field_tested",
+          "name": "TEST ONLY - Field tested status"
+        }
+      ]
+    },
+    {
+      "id": "anchorvolt_test_status_verified_2098",
+      "make": "Anchorvolt TEST ONLY",
+      "model": "Approval Status Demonstrator",
+      "year": "2098",
+      "status": "Verified",
+      "can_protocol": "Classical CAN",
+      "arbitration_bit_rate": 500000,
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/anchorvolt-test-status-verified-2098.avp",
+      "sha256": "0d305ecb21d691dddcaa667ef11ad37383320875fe6c207839206317ec5ea0c8",
+      "functions": [
+        {
+          "key": "status_demo_verified",
+          "name": "TEST ONLY - Verified status"
+        }
+      ]
+    },
+    {
+      "id": "anchorvolt_test_status_production_approved_2099",
+      "make": "Anchorvolt TEST ONLY",
+      "model": "Approval Status Demonstrator",
+      "year": "2099",
+      "status": "Production approved",
+      "can_protocol": "Classical CAN",
+      "arbitration_bit_rate": 500000,
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/anchorvolt-test-status-production-approved-2099.avp",
+      "sha256": "713d240a8d704646c08a27fdba4662b1ad8d7e8dafd73277d255d7c5a919a97a",
+      "functions": [
+        {
+          "key": "status_demo_production_approved",
+          "name": "TEST ONLY - Production approved status"
+        }
+      ]
+    },
+    {
       "id": "anchorvolt_test_automation_validation_2099",
       "make": "Anchorvolt TEST ONLY",
       "model": "Automation Validation - Do Not Install",
