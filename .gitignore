@@ -1,0 +1,13 @@
+# Never publish raw learned profiles, firmware binaries or keys.
+*.json
+!profiles/catalog.json
+!firmware/can-io-pro/latest.json
+*.bin
+*.elf
+*.hex
+*.key
+*.pem
+
+# Only protected product packages belong in the public payload folders.
+!*.avp
+!*.avfw
