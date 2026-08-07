@@ -1,0 +1,6 @@
+{
+  "schema": 1,
+  "product": "CAN-IO-PRO",
+  "available": false,
+  "message": "No production CAN-IO-PRO firmware release is available yet. Output GPIO assignments and production hardware protections are still placeholders."
+}
