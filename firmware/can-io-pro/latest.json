@@ -1,6 +1,11 @@
 {
   "schema": 1,
   "product": "CAN-IO-PRO",
-  "available": false,
-  "message": "No production CAN-IO-PRO firmware release is available yet. Output GPIO assignments and production hardware protections are still placeholders."
+  "available": true,
+  "version": "0.1.2-test.1",
+  "url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/firmware/can-io-pro/packages/can-io-pro-0-1-2-test-1.avfw",
+  "sha256": "9993349d5337a5f1eb985175fcef1212b42f6c2d147102cb95fc85d0337a2de9",
+  "plaintext_sha256": "ad043b8bdcc26d86abef059569818f86d50f6c2165aad0625237832f6143ac6e",
+  "package_format": "AVF1",
+  "key_version": 1
 }
