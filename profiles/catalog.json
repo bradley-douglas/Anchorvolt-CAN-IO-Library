@@ -11,7 +11,7 @@
       "can_protocol": "Classical CAN",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/anchorvolt-test-status-field-tested-2097.avp",
-      "sha256": "310393e6b258aad8926b8d0936da72d918fc6b14962e033dc22589980f750af6",
+      "sha256": "a832edc4b9fabe4e26f42dfc30bf08584be2602e7cd368fbb0d639d3f6bb1c4a",
       "functions": [
         {
           "key": "status_demo_field_tested",
@@ -28,7 +28,7 @@
       "can_protocol": "Classical CAN",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/anchorvolt-test-status-verified-2098.avp",
-      "sha256": "8c3d9ddb5c628c68b68eda836212f378199b1e15292ce0574d4bb7425ee10a8a",
+      "sha256": "411fb0b2c12c6916dfba8ca5b2c4a99b38fe01c88cb2cc2cbdc76b9947789892",
       "functions": [
         {
           "key": "status_demo_verified",
@@ -45,7 +45,7 @@
       "can_protocol": "Classical CAN",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/anchorvolt-test-automation-validation-2099.avp",
-      "sha256": "0154e996238fc8308ba7a70f32ff368445b6dac0934e927fca6d97775529f4b2",
+      "sha256": "5297a2c3530e001357c90570fe96d2ac1a97fdb45bf1889746c886b4c7888736",
       "functions": [
         {
           "key": "workflow_test_signal",
@@ -62,7 +62,7 @@
       "can_protocol": "Classical CAN",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/anchorvolt-test-status-production-approved-2099.avp",
-      "sha256": "bf13d9405472a7ba2a43ca4b149f30b9be023bbbdcfedaf79c1be4433ff60b49",
+      "sha256": "2acfc337fad895de9c6079ccab0c39b720d9a48fede9d7a41a3d9fba9fc59caf",
       "functions": [
         {
           "key": "status_demo_production_approved",
