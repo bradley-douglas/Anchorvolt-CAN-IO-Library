@@ -20,23 +20,6 @@
       ]
     },
     {
-      "id": "anchorvolt_test_automation_validation_2099",
-      "make": "Anchorvolt TEST ONLY",
-      "model": "Automation Validation - Do Not Install",
-      "year": "2099",
-      "status": "Experimental",
-      "can_protocol": "Classical CAN",
-      "arbitration_bit_rate": 500000,
-      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/anchorvolt-test-automation-validation-2099.avp",
-      "sha256": "5297a2c3530e001357c90570fe96d2ac1a97fdb45bf1889746c886b4c7888736",
-      "functions": [
-        {
-          "key": "workflow_test_signal",
-          "name": "TEST ONLY - Workflow signal"
-        }
-      ]
-    },
-    {
       "id": "anchorvolt_test_status_production_approved_2099",
       "make": "Anchorvolt TEST ONLY",
       "model": "Automation Validation - Do Not Install",
@@ -50,6 +33,23 @@
         {
           "key": "status_demo_production_approved",
           "name": "TEST ONLY - Production approved status"
+        }
+      ]
+    },
+    {
+      "id": "anchorvolt_test_automation_validation_2099",
+      "make": "Anchorvolt TEST ONLY",
+      "model": "Automation Validation - Do Not Install",
+      "year": "2099",
+      "status": "Released for use",
+      "can_protocol": "Classical CAN",
+      "arbitration_bit_rate": 500000,
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/anchorvolt-test-automation-validation-2099.avp",
+      "sha256": "3d299c3cd24f1dff3bbc9c92e7cc6b4cb7bee8fd8bf7be4f8268da3d54ca2497",
+      "functions": [
+        {
+          "key": "workflow_test_signal",
+          "name": "TEST ONLY - Workflow signal"
         }
       ]
     },
