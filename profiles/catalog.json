@@ -58,11 +58,11 @@
       "make": "Toyota",
       "model": "Hilux",
       "year": "2024",
-      "status": "Verified",
+      "status": "Released for use",
       "can_protocol": "Classical CAN",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/anchorvolt-test-status-verified-2098.avp",
-      "sha256": "96b5f4200516e82134d3cb668616291dbb9c4bc16bf86a45a208660376b25b3f",
+      "sha256": "6e3ff708874b40a4db47a3638779e380b53aaf4f9802a4d81a854d968f887e28",
       "functions": [
         {
           "key": "status_demo_verified",
