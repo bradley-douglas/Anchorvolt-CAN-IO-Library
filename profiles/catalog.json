@@ -24,11 +24,11 @@
       "make": "Anchorvolt TEST ONLY",
       "model": "Automation Validation - Do Not Install",
       "year": "2098",
-      "status": "Verified",
+      "status": "Production approved",
       "can_protocol": "Classical CAN",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/anchorvolt-test-status-verified-2098.avp",
-      "sha256": "411fb0b2c12c6916dfba8ca5b2c4a99b38fe01c88cb2cc2cbdc76b9947789892",
+      "sha256": "c0fe46d292214c1a1d319ffec90aff9793e8edf86ff8938661eae331de364ee0",
       "functions": [
         {
           "key": "status_demo_verified",
