@@ -88,6 +88,23 @@
       ]
     },
     {
+      "id": "nivara_two_tap_2099",
+      "make": "Nivara",
+      "model": "two tap",
+      "year": "2099",
+      "status": "Released for use",
+      "can_protocol": "Classical CAN",
+      "arbitration_bit_rate": 500000,
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/nivara-two-tap-2099.avp",
+      "sha256": "5c0f9ae70c2915ebd5cbcc00a72f1a22238bfef9bb1fdae34c2382b93d8595d6",
+      "functions": [
+        {
+          "key": "status_demo_production_approved",
+          "name": "TEST ONLY - Production approved status"
+        }
+      ]
+    },
+    {
       "id": "anchorvolt_test_status_verified_2098",
       "make": "Toyota",
       "model": "Hilux",
