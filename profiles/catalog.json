@@ -54,6 +54,23 @@
       ]
     },
     {
+      "id": "nivara_automation_validation_do_not_install_2099",
+      "make": "Nivara",
+      "model": "Automation Validation - Do Not Install",
+      "year": "2099",
+      "status": "Released for use",
+      "can_protocol": "Classical CAN",
+      "arbitration_bit_rate": 500000,
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/nivara-automation-validation-do-not-install-2099.avp",
+      "sha256": "142517b45595ab90faaef2f2accfb9e4dee23793a8bfa5ba3aa13ef8b0101801",
+      "functions": [
+        {
+          "key": "status_demo_production_approved",
+          "name": "TEST ONLY - Production approved status"
+        }
+      ]
+    },
+    {
       "id": "anchorvolt_test_status_verified_2098",
       "make": "Toyota",
       "model": "Hilux",
