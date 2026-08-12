@@ -58,11 +58,11 @@
       "make": "Mitsubishi",
       "model": "Automation Validation - Do Not Install",
       "year": "2099",
-      "status": "Released for use",
+      "status": "1st capture",
       "can_protocol": "Classical CAN",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/mitsubishi-automation-validation-do-not-install-2099.avp",
-      "sha256": "e14a038bd3b794fa3b5d3a39e2a81dc9ae5dcba607b360963bbfb577be74d437",
+      "sha256": "0307babbe61b6e0a3ac60e51436b467bd409045c4d8f1d1898c58262859044a4",
       "functions": [
         {
           "key": "workflow_test_signal",
