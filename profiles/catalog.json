@@ -92,11 +92,11 @@
       "make": "Nivara",
       "model": "two tap",
       "year": "2099",
-      "status": "Released for use",
+      "status": "Experimental",
       "can_protocol": "Classical CAN",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/nivara-two-tap-2099.avp",
-      "sha256": "5c0f9ae70c2915ebd5cbcc00a72f1a22238bfef9bb1fdae34c2382b93d8595d6",
+      "sha256": "9255bb68ae7759cd6276206fb92193763e108df2e0d879cd01354dabc2925c7a",
       "functions": [
         {
           "key": "status_demo_production_approved",
