@@ -11,7 +11,7 @@
       "can_protocol": "Classical CAN",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/nivara-two-tap-2099.avp",
-      "sha256": "c79090b1946d78ef858520868c9055c718c30ad25c73f7dfb00bc6c189a63e65",
+      "sha256": "8f0731704d5f42a91562ce821d6e641f21ed13e4e7b0f391d1996a74bf63ffce",
       "functions": [
         {
           "key": "status_demo_production_approved",
@@ -28,7 +28,7 @@
       "can_protocol": "Classical CAN",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/anchorvolt-test-status-verified-2098.avp",
-      "sha256": "168f16def55c32b6290336064079a341b04b01e83e899672b189ec51ac57c4a1",
+      "sha256": "ec11ff48e0c6dc32aeefc37fa3cd540dcbea14c1dd2bb912ccf48d51aac2e007",
       "functions": [
         {
           "key": "status_demo_verified",
