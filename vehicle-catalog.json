@@ -42,6 +42,18 @@
     {"manufacturer":"Foton","model":"Tunland G7","variant":"Standard / Luxury","year":"2023-2026","body_type":"Double cab","drivetrain":"4x2 / 4x4","status":"Not captured"},
     {"manufacturer":"LDV","model":"T60","variant":"Pro / Max / Luxe","year":"2024-2026","body_type":"Double cab","drivetrain":"4x2 / 4x4","status":"Not captured"},
     {"manufacturer":"LDV","model":"Terron 9","variant":"Luxury","year":"2025-2026","body_type":"Double cab","drivetrain":"4x4","status":"Not captured"},
-    {"manufacturer":"KGM","model":"Musso","variant":"Standard / Adventure","year":"2023-2026","body_type":"Double cab","drivetrain":"4x2 / 4x4","status":"Not captured"}
+    {"manufacturer":"KGM","model":"Musso","variant":"Standard / Adventure","year":"2023-2026","body_type":"Double cab","drivetrain":"4x2 / 4x4","status":"Not captured"},
+    {"manufacturer":"Toyota","model":"Fortuner","variant":"2.4 / 2.8","year":"2023-2026","body_type":"SUV","drivetrain":"4x2 / 4x4","status":"Not captured"},
+    {"manufacturer":"Toyota","model":"Land Cruiser Prado","variant":"TX / VX / Kakadu","year":"2024-2026","body_type":"SUV","drivetrain":"4x4","status":"Not captured"},
+    {"manufacturer":"Toyota","model":"Land Cruiser 300","variant":"ZX / GR-S / VX-R","year":"2023-2026","body_type":"SUV","drivetrain":"4x4","status":"Not captured"},
+    {"manufacturer":"Lexus","model":"GX","variant":"550 Overtrail / Luxury","year":"2024-2026","body_type":"SUV","drivetrain":"4x4","status":"Not captured"},
+    {"manufacturer":"Lexus","model":"LX","variant":"600 / 700h","year":"2023-2026","body_type":"SUV","drivetrain":"4x4","status":"Not captured"},
+    {"manufacturer":"Land Rover","model":"Defender","variant":"90 / 110 / 130","year":"2023-2026","body_type":"SUV","drivetrain":"4x4","status":"Not captured"},
+    {"manufacturer":"Land Rover","model":"Discovery Sport","variant":"S / Dynamic SE","year":"2023-2026","body_type":"SUV","drivetrain":"4x4","status":"Not captured"},
+    {"manufacturer":"Land Rover","model":"Discovery","variant":"S / Dynamic HSE","year":"2023-2026","body_type":"SUV","drivetrain":"4x4","status":"Not captured"},
+    {"manufacturer":"Land Rover","model":"Range Rover Evoque","variant":"Dynamic SE / Autobiography","year":"2023-2026","body_type":"SUV","drivetrain":"4x4","status":"Not captured"},
+    {"manufacturer":"Land Rover","model":"Range Rover Velar","variant":"Dynamic SE / Autobiography","year":"2023-2026","body_type":"SUV","drivetrain":"4x4","status":"Not captured"},
+    {"manufacturer":"Land Rover","model":"Range Rover Sport","variant":"Dynamic SE / Autobiography","year":"2023-2026","body_type":"SUV","drivetrain":"4x4","status":"Not captured"},
+    {"manufacturer":"Land Rover","model":"Range Rover","variant":"SE / Autobiography","year":"2023-2026","body_type":"SUV","drivetrain":"4x4","status":"Not captured"}
   ]
 }
