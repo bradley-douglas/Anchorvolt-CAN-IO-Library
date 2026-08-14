@@ -2,6 +2,7 @@
 *.json
 !profiles/catalog.json
 !firmware/can-io-pro/latest.json
+!vehicle-catalog.json
 *.bin
 *.elf
 *.hex
