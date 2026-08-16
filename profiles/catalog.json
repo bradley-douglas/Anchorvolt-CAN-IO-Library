@@ -11,7 +11,7 @@
       "can_protocol": "Classical CAN",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/nivara-two-tap-2099.avp",
-      "sha256": "d1b2e86a05542aade0eaf8d39d8d8b12bfebcbdf18c0801f0bff62da0f7889ba",
+      "sha256": "5fc0532f85fb878861f5d0d2ff336a4a7068feda4b5bf370db552a391caa1b83",
       "functions": [
         {
           "key": "status_demo_production_approved",
@@ -20,15 +20,15 @@
       ]
     },
     {
-      "id": "toyota_hilux_grs_2024",
+      "id": "toyota_hilux_4x4_dc_grs_2024",
       "make": "Toyota",
-      "model": "Hilux GRS",
+      "model": "Hilux 4x4 DC GRS",
       "year": "2024",
       "status": "Released for use",
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
-      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-grs-2024.avp",
-      "sha256": "a8809aaaf2804c665644a3530d11f3494677424c6fc14f7dc392f7f591a45790",
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024.avp",
+      "sha256": "94624f0ba40303f1cd0cc00a6b34d022e2eee93aa7983127c68b7578c8948309",
       "functions": [
         {
           "key": "low_beam",
