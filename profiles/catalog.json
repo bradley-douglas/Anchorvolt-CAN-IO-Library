@@ -11,7 +11,7 @@
       "can_protocol": "Classical CAN",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/nivara-two-tap-2099.avp",
-      "sha256": "203d747061644fcb48d5cb39c9f9f0043da3a996742c354dbc43f88382a45a91",
+      "sha256": "027d01b5c0486fe400ca0c7d608e566ab46d81015145a26d0d5f8aafe6265d05",
       "functions": [
         {
           "key": "status_demo_production_approved",
@@ -28,19 +28,23 @@
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-grs-2024.avp",
-      "sha256": "7cd5decc028533c319023651ccdee50343d006bb48dbb22ec881d54c1030fcb6",
+      "sha256": "b5a5699cec7a242d79cc66b2e4e10e6d744136e0ca39b351154f8c94c2488b99",
       "functions": [
         {
           "key": "high_beam",
           "name": "High Beam"
         },
         {
-          "key": "left_indicator",
-          "name": "Left Indicator"
+          "key": "fog_lights",
+          "name": "Fog Lights"
         },
         {
           "key": "right_indicator",
           "name": "Right Indicator"
+        },
+        {
+          "key": "left_indicator",
+          "name": "Left Indicator"
         },
         {
           "key": "hazards",
