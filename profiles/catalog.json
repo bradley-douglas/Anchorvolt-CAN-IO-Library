@@ -11,7 +11,7 @@
       "can_protocol": "Classical CAN",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/nivara-two-tap-2099.avp",
-      "sha256": "91aa7fc9464ffb6cd8c64bb37171d4b0ccb0093ce994e0b09673952276766ac9",
+      "sha256": "21cecc25021e25dabd8c261e978ab44f41c3b66874eda2fe3b97282ff3f2b8e0",
       "functions": [
         {
           "key": "status_demo_production_approved",
@@ -28,7 +28,7 @@
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-grs-2024.avp",
-      "sha256": "b5f67e45f2e849348f0caa7c1826ec18fcbb0ef2389a28495cc048645c75af2f",
+      "sha256": "3c145ad57ab2d624aeba7fa4b2bbe26e79eda6f51890bad5e410300cedb6715b",
       "functions": [
         {
           "key": "low_beam",
