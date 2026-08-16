@@ -11,7 +11,7 @@
       "can_protocol": "Classical CAN",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/nivara-two-tap-2099.avp",
-      "sha256": "70a495ac3c0f4a88ca795913c3bf5e1231d3b19e80565b304e6f6a9344039100",
+      "sha256": "0d7c13d3d6e3021b32db8c2fac0b3f33e810a7f106952ac1fadc20bc39131589",
       "functions": [
         {
           "key": "status_demo_production_approved",
@@ -28,11 +28,40 @@
       "can_protocol": "Classical CAN",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/anchorvolt-test-status-verified-2098.avp",
-      "sha256": "46d39e9458e99bbf69d1606a78986ce0480653c26c1ecb43bc2197a7cbe8eb3a",
+      "sha256": "8f3abebbb1b5c056f393b0902bf9566f84e61c9207bf906803132e14f265fd3e",
       "functions": [
         {
           "key": "status_demo_verified",
           "name": "TEST ONLY - Verified status"
+        }
+      ]
+    },
+    {
+      "id": "toyota_hilux_grs_legend_55_2024",
+      "make": "Toyota",
+      "model": "Hilux GRS",
+      "year": "2024",
+      "status": "Released for use",
+      "can_protocol": "CAN FD",
+      "arbitration_bit_rate": 500000,
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-grs-legend-55-2024.avp",
+      "sha256": "387096dec1b5113e363ef276c87340eb022d2ce30eea92992e985e51d33eee97",
+      "functions": [
+        {
+          "key": "high_beam",
+          "name": "High Beam"
+        },
+        {
+          "key": "left_indicator",
+          "name": "Left Indicator"
+        },
+        {
+          "key": "right_indicator",
+          "name": "Right Indicator"
+        },
+        {
+          "key": "hazards",
+          "name": "Hazards"
         }
       ]
     }
