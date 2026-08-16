@@ -11,7 +11,7 @@
       "can_protocol": "Classical CAN",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/nivara-two-tap-2099.avp",
-      "sha256": "d437288ef9e6bcf4df10819964f9186e21ddfe3c2b71b9e86a82c2f703b1b80c",
+      "sha256": "91aa7fc9464ffb6cd8c64bb37171d4b0ccb0093ce994e0b09673952276766ac9",
       "functions": [
         {
           "key": "status_demo_production_approved",
@@ -28,7 +28,7 @@
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-grs-2024.avp",
-      "sha256": "d1b7a002883d407cd5f3fe95ab835977061df3149dbdbdfb42ecddcf44b04c78",
+      "sha256": "b5f67e45f2e849348f0caa7c1826ec18fcbb0ef2389a28495cc048645c75af2f",
       "functions": [
         {
           "key": "low_beam",
@@ -47,12 +47,20 @@
           "name": "Right Indicator"
         },
         {
+          "key": "left_indicator",
+          "name": "Left Indicator"
+        },
+        {
           "key": "brake_light",
           "name": "Brake Light"
         },
         {
           "key": "remote_unlock",
           "name": "Remote Unlock"
+        },
+        {
+          "key": "remote_lock",
+          "name": "Remote Lock"
         }
       ]
     }
