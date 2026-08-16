@@ -11,7 +11,7 @@
       "can_protocol": "Classical CAN",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/nivara-two-tap-2099.avp",
-      "sha256": "6097395d841b8f1980ba0e22639e228a416ea4a4eec1edc6780f86450e7ce01c",
+      "sha256": "64a4f66f019a00b941eaf5f5f742091641dac561e19502906bddbdf97a5e58cf",
       "functions": [
         {
           "key": "status_demo_production_approved",
@@ -28,7 +28,7 @@
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-grs-2024.avp",
-      "sha256": "547c2a60b5d9f4bc2ce4f9c4b5b77ce97caec8d200a14f263ef96151c78ed9fc",
+      "sha256": "2768c03cad48b5f49b6b9a96c7f4dc9fa5ab1f22c025c581bda4e0683581c3fd",
       "functions": [
         {
           "key": "high_beam",
@@ -49,6 +49,10 @@
         {
           "key": "hazards",
           "name": "Hazards"
+        },
+        {
+          "key": "handbrake_active",
+          "name": "Handbrake Active"
         }
       ]
     }
