@@ -1,8 +1,8 @@
 {
   "product": "CAN IQ PRO Configurator",
-  "version": "0.7.43",
-  "url": "https://github.com/bradley-douglas/Anchorvolt-CAN-IO-Library/releases/download/android-v0.7.43/CAN.IQ.PRO.Configurator.0.7.43.apk",
-  "release_url": "https://github.com/bradley-douglas/Anchorvolt-CAN-IO-Library/releases/tag/android-v0.7.43",
-  "asset": "CAN.IQ.PRO.Configurator.0.7.43.apk",
-  "sha256": "6126a7b7c19b97abf51be7c27acda4fdb20e746969e0864ffa12401b9436aab1"
+  "version": "0.7.47",
+  "url": "https://github.com/bradley-douglas/Anchorvolt-CAN-IO-Library/releases/download/android-v0.7.47/CAN.IQ.PRO.Configurator.0.7.47.apk",
+  "release_url": "https://github.com/bradley-douglas/Anchorvolt-CAN-IO-Library/releases/tag/android-v0.7.47",
+  "asset": "CAN.IQ.PRO.Configurator.0.7.47.apk",
+  "sha256": "05b57c3a0a1d43f8b40b0960d75cf5cf7a81aec2ee97377dfa31d561fb3505b5"
 }
