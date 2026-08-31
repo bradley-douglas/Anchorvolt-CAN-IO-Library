@@ -11,7 +11,7 @@
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024.avp",
-      "sha256": "dbdbf4b05bc64543cef5a5b36727aadf6143004fdba139fdcf9659c5732d62e8",
+      "sha256": "59ecdf0f899f895e25ed87649d13cfb5a82334307cbb8f01801654aacb197f34",
       "functions": [
         {
           "key": "brake_light",
@@ -24,6 +24,26 @@
         {
           "key": "remote_lock",
           "name": "Remote Lock"
+        },
+        {
+          "key": "low_beam",
+          "name": "Low Beam"
+        },
+        {
+          "key": "turn_signals",
+          "name": "Turn Signal Left"
+        },
+        {
+          "key": "parking_brake",
+          "name": "Parking Brake"
+        },
+        {
+          "key": "door_open_fr",
+          "name": "Door Open Fr"
+        },
+        {
+          "key": "hazards",
+          "name": "Hazards"
         }
       ]
     }
