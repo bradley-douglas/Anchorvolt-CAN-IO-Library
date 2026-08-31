@@ -2,10 +2,10 @@
   "schema": 1,
   "product": "CAN-IO-PRO",
   "available": true,
-  "version": "9.0.0",
-  "url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/firmware/can-io-pro/packages/can-io-pro-9-0-0.avfw",
-  "sha256": "2bc4a7309d0bd5afcbe061ec36c35b27245d4eda2ec700885e65f6f69751aec1",
-  "plaintext_sha256": "8892bff298af7e04f7a4656218d0d7f8c10d3c424ecf16f2a236ac40fea6a840",
+  "version": "9.0.1",
+  "url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/firmware/can-io-pro/packages/can-io-pro-9-0-1.avfw",
+  "sha256": "3c815e1fff97803105b9c300975b7758e61390a091ce3c8dbfd45716a53b0fc0",
+  "plaintext_sha256": "567fe54955ce738d28e7d9981733bbc2b69726cd3d731e801431b884b0e94556",
   "package_format": "AVF1",
   "key_version": 1
 }
