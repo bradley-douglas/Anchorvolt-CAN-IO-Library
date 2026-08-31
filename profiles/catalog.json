@@ -11,7 +11,7 @@
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024.avp",
-      "sha256": "5d15d8e3042a08949696f43ec485c0058d17aa593493fdd4e00cd34bdd310cc2",
+      "sha256": "9b3e7711e71d6c9c0489f36b91793a5a07e521123274839a4f3317a043e7cf25",
       "functions": [
         {
           "key": "remote_unlock",
@@ -228,6 +228,34 @@
           "name": "Daytime Running Light",
           "selection_group": "",
           "selection_state": "",
+          "state_output_allowed": true,
+          "event_output_allowed": false,
+          "active_timer_allowed": false,
+          "inactive_timer_allowed": false,
+          "timer_mode": "none",
+          "timer_min_seconds": 0,
+          "timer_max_seconds": 0,
+          "timer_default_seconds": 0
+        },
+        {
+          "key": "turn_signals_right",
+          "name": "Turn Signals Right",
+          "selection_group": "Turn Signals",
+          "selection_state": "Right",
+          "state_output_allowed": true,
+          "event_output_allowed": false,
+          "active_timer_allowed": false,
+          "inactive_timer_allowed": false,
+          "timer_mode": "none",
+          "timer_min_seconds": 0,
+          "timer_max_seconds": 0,
+          "timer_default_seconds": 0
+        },
+        {
+          "key": "turn_signals_left",
+          "name": "Turn Signals Left",
+          "selection_group": "Turn Signals",
+          "selection_state": "Left",
           "state_output_allowed": true,
           "event_output_allowed": false,
           "active_timer_allowed": false,
