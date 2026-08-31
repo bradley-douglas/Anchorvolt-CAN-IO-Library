@@ -11,7 +11,7 @@
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024.avp",
-      "sha256": "d1da3576b0bca1cf763eb7d5aac5f73e11c44f800a45954f75451696adeafee8",
+      "sha256": "e7f9d9dd45a3dfe9e026ca72743fab19fc6fc9bf267ae5263549dbddf0b1525d",
       "functions": [
         {
           "key": "low_beam",
