@@ -11,71 +11,39 @@
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024.avp",
-      "sha256": "70629130cb0eeaa84dd466ae5acff68ed00bfe08447a5b67da9d970dfddb7d4e",
+      "sha256": "d374efc66bf4cfe8a290634eee768e5a2124bee67138b596a55391731e3c843a",
       "functions": [
         {
           "key": "low_beam",
-          "name": "Low Beam",
-          "timer_mode": "none",
-          "timer_min_seconds": 0,
-          "timer_max_seconds": 0,
-          "timer_default_seconds": 0
+          "name": "Low Beam"
         },
         {
           "key": "high_beam",
-          "name": "High Beam",
-          "timer_mode": "none",
-          "timer_min_seconds": 0,
-          "timer_max_seconds": 0,
-          "timer_default_seconds": 0
+          "name": "High Beam"
         },
         {
           "key": "fog_lights",
-          "name": "Fog Lights",
-          "timer_mode": "none",
-          "timer_min_seconds": 0,
-          "timer_max_seconds": 0,
-          "timer_default_seconds": 0
+          "name": "Fog Lights"
         },
         {
           "key": "left_indicator",
-          "name": "Left Indicator",
-          "timer_mode": "none",
-          "timer_min_seconds": 0,
-          "timer_max_seconds": 0,
-          "timer_default_seconds": 0
+          "name": "Left Indicator"
         },
         {
           "key": "hazards",
-          "name": "Hazards",
-          "timer_mode": "none",
-          "timer_min_seconds": 0,
-          "timer_max_seconds": 0,
-          "timer_default_seconds": 0
+          "name": "Hazards"
         },
         {
           "key": "brake_light",
-          "name": "Brake Light",
-          "timer_mode": "none",
-          "timer_min_seconds": 0,
-          "timer_max_seconds": 0,
-          "timer_default_seconds": 0
+          "name": "Brake Light"
         },
         {
           "key": "remote_unlock",
-          "name": "Remote Unlock",
-          "timer_mode": "delay_off",
-          "timer_min_seconds": 1,
-          "timer_max_seconds": 600,
-          "timer_default_seconds": 1
+          "name": "Remote Unlock"
         },
         {
           "key": "remote_lock",
-          "name": "Remote Lock",
-          "timer_mode": "delay_off",
-          "timer_min_seconds": 1,
-          "timer_max_seconds": 600,
-          "timer_default_seconds": 1
+          "name": "Remote Lock"
         }
       ]
     }
