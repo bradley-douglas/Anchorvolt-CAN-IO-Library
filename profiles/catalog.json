@@ -11,43 +11,133 @@
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024.avp",
-      "sha256": "e6dd121c16b714b8e7f7a0aa5f060e7da3eddc20e9792130465e42666c738c5f",
+      "sha256": "54e11921403ede5dde05f8297ed9d2f7cd5efed98e192cd5de995b787a382ce6",
       "functions": [
         {
           "key": "remote_unlock",
-          "name": "Remote Unlock"
+          "name": "Remote Unlock",
+          "selection_group": "",
+          "selection_state": "",
+          "state_output_allowed": false,
+          "event_output_allowed": true,
+          "active_timer_allowed": true,
+          "inactive_timer_allowed": true,
+          "timer_mode": "delay_off",
+          "timer_min_seconds": 1,
+          "timer_max_seconds": 600,
+          "timer_default_seconds": 1
         },
         {
           "key": "remote_lock",
-          "name": "Remote Lock"
+          "name": "Remote Lock",
+          "selection_group": "",
+          "selection_state": "",
+          "state_output_allowed": false,
+          "event_output_allowed": true,
+          "active_timer_allowed": true,
+          "inactive_timer_allowed": true,
+          "timer_mode": "delay_off",
+          "timer_min_seconds": 1,
+          "timer_max_seconds": 600,
+          "timer_default_seconds": 1
         },
         {
           "key": "parking_brake",
-          "name": "Parking Brake"
+          "name": "Parking Brake",
+          "selection_group": "",
+          "selection_state": "",
+          "state_output_allowed": true,
+          "event_output_allowed": false,
+          "active_timer_allowed": false,
+          "inactive_timer_allowed": false,
+          "timer_mode": "none",
+          "timer_min_seconds": 0,
+          "timer_max_seconds": 0,
+          "timer_default_seconds": 0
         },
         {
           "key": "door_open_fr",
-          "name": "Door Open Fr"
+          "name": "Door Open Fr",
+          "selection_group": "",
+          "selection_state": "",
+          "state_output_allowed": true,
+          "event_output_allowed": false,
+          "active_timer_allowed": false,
+          "inactive_timer_allowed": false,
+          "timer_mode": "none",
+          "timer_min_seconds": 0,
+          "timer_max_seconds": 0,
+          "timer_default_seconds": 0
         },
         {
           "key": "hazards",
-          "name": "Hazards"
+          "name": "Hazards",
+          "selection_group": "",
+          "selection_state": "",
+          "state_output_allowed": true,
+          "event_output_allowed": false,
+          "active_timer_allowed": false,
+          "inactive_timer_allowed": false,
+          "timer_mode": "none",
+          "timer_min_seconds": 0,
+          "timer_max_seconds": 0,
+          "timer_default_seconds": 0
         },
         {
           "key": "turn_signals_right",
-          "name": "Turn Signals right"
+          "name": "Turn Signals right",
+          "selection_group": "Turn Signals",
+          "selection_state": "Right",
+          "state_output_allowed": true,
+          "event_output_allowed": false,
+          "active_timer_allowed": false,
+          "inactive_timer_allowed": false,
+          "timer_mode": "none",
+          "timer_min_seconds": 0,
+          "timer_max_seconds": 0,
+          "timer_default_seconds": 0
         },
         {
           "key": "turn_signals_left",
-          "name": "Turn Signals Left"
+          "name": "Turn Signals Left",
+          "selection_group": "Turn Signals",
+          "selection_state": "Left",
+          "state_output_allowed": true,
+          "event_output_allowed": false,
+          "active_timer_allowed": false,
+          "inactive_timer_allowed": false,
+          "timer_mode": "none",
+          "timer_min_seconds": 0,
+          "timer_max_seconds": 0,
+          "timer_default_seconds": 0
         },
         {
           "key": "auto_high_beam",
-          "name": "Auto High Beam"
+          "name": "Auto High Beam",
+          "selection_group": "",
+          "selection_state": "",
+          "state_output_allowed": true,
+          "event_output_allowed": false,
+          "active_timer_allowed": false,
+          "inactive_timer_allowed": false,
+          "timer_mode": "none",
+          "timer_min_seconds": 0,
+          "timer_max_seconds": 0,
+          "timer_default_seconds": 0
         },
         {
           "key": "front_fog",
-          "name": "Front Fog"
+          "name": "Front Fog",
+          "selection_group": "",
+          "selection_state": "",
+          "state_output_allowed": true,
+          "event_output_allowed": false,
+          "active_timer_allowed": false,
+          "inactive_timer_allowed": false,
+          "timer_mode": "none",
+          "timer_min_seconds": 0,
+          "timer_max_seconds": 0,
+          "timer_default_seconds": 0
         }
       ]
     }
