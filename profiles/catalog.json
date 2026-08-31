@@ -11,7 +11,7 @@
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024.avp",
-      "sha256": "54e11921403ede5dde05f8297ed9d2f7cd5efed98e192cd5de995b787a382ce6",
+      "sha256": "a7727ce7d004a084227b53be714b00bf27f132447ebeea1d2f07de6478fc9f25",
       "functions": [
         {
           "key": "remote_unlock",
@@ -40,104 +40,6 @@
           "timer_min_seconds": 1,
           "timer_max_seconds": 600,
           "timer_default_seconds": 1
-        },
-        {
-          "key": "parking_brake",
-          "name": "Parking Brake",
-          "selection_group": "",
-          "selection_state": "",
-          "state_output_allowed": true,
-          "event_output_allowed": false,
-          "active_timer_allowed": false,
-          "inactive_timer_allowed": false,
-          "timer_mode": "none",
-          "timer_min_seconds": 0,
-          "timer_max_seconds": 0,
-          "timer_default_seconds": 0
-        },
-        {
-          "key": "door_open_fr",
-          "name": "Door Open Fr",
-          "selection_group": "",
-          "selection_state": "",
-          "state_output_allowed": true,
-          "event_output_allowed": false,
-          "active_timer_allowed": false,
-          "inactive_timer_allowed": false,
-          "timer_mode": "none",
-          "timer_min_seconds": 0,
-          "timer_max_seconds": 0,
-          "timer_default_seconds": 0
-        },
-        {
-          "key": "hazards",
-          "name": "Hazards",
-          "selection_group": "",
-          "selection_state": "",
-          "state_output_allowed": true,
-          "event_output_allowed": false,
-          "active_timer_allowed": false,
-          "inactive_timer_allowed": false,
-          "timer_mode": "none",
-          "timer_min_seconds": 0,
-          "timer_max_seconds": 0,
-          "timer_default_seconds": 0
-        },
-        {
-          "key": "turn_signals_right",
-          "name": "Turn Signals right",
-          "selection_group": "Turn Signals",
-          "selection_state": "Right",
-          "state_output_allowed": true,
-          "event_output_allowed": false,
-          "active_timer_allowed": false,
-          "inactive_timer_allowed": false,
-          "timer_mode": "none",
-          "timer_min_seconds": 0,
-          "timer_max_seconds": 0,
-          "timer_default_seconds": 0
-        },
-        {
-          "key": "turn_signals_left",
-          "name": "Turn Signals Left",
-          "selection_group": "Turn Signals",
-          "selection_state": "Left",
-          "state_output_allowed": true,
-          "event_output_allowed": false,
-          "active_timer_allowed": false,
-          "inactive_timer_allowed": false,
-          "timer_mode": "none",
-          "timer_min_seconds": 0,
-          "timer_max_seconds": 0,
-          "timer_default_seconds": 0
-        },
-        {
-          "key": "auto_high_beam",
-          "name": "Auto High Beam",
-          "selection_group": "",
-          "selection_state": "",
-          "state_output_allowed": true,
-          "event_output_allowed": false,
-          "active_timer_allowed": false,
-          "inactive_timer_allowed": false,
-          "timer_mode": "none",
-          "timer_min_seconds": 0,
-          "timer_max_seconds": 0,
-          "timer_default_seconds": 0
-        },
-        {
-          "key": "front_fog",
-          "name": "Front Fog",
-          "selection_group": "",
-          "selection_state": "",
-          "state_output_allowed": true,
-          "event_output_allowed": false,
-          "active_timer_allowed": false,
-          "inactive_timer_allowed": false,
-          "timer_mode": "none",
-          "timer_min_seconds": 0,
-          "timer_max_seconds": 0,
-          "timer_default_seconds": 0
         }
       ]
     }
