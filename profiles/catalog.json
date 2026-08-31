@@ -11,7 +11,7 @@
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024.avp",
-      "sha256": "70407ce93975497484ddbcf6001dd0b9683852005edc076df349cd6e84c0f818",
+      "sha256": "48088d5ea627b9f0f138c4bf756b3cd32114e5ed3d3c254104f3b4ad789e27c1",
       "functions": [
         {
           "key": "brake_light",
@@ -40,6 +40,14 @@
         {
           "key": "hazards",
           "name": "Hazards"
+        },
+        {
+          "key": "turn_signals_right",
+          "name": "Turn Signals right"
+        },
+        {
+          "key": "turn_signals_left",
+          "name": "Turn Signals Left"
         }
       ]
     }
