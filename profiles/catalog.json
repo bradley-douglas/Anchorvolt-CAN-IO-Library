@@ -11,7 +11,7 @@
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
       "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024.avp",
-      "sha256": "a1ba444bc02154985e17b5ba60d3565dbd3c05c06706dae49567069eba4ae868",
+      "sha256": "f5d9c2cc9bdb8bfa8d63382f06e03a9a9ff2a59c778e4a093be75eed41dfec77",
       "functions": [
         {
           "key": "hazard_light",
@@ -84,7 +84,7 @@
           "timer_default_seconds": 0
         },
         {
-          "key": "dbc_0x226_brake_module_brake_pressed",
+          "key": "dbc_0x226_brake_module_07d35b1f",
           "name": "Brake Pressed",
           "selection_group": "",
           "selection_state": "",
@@ -112,7 +112,7 @@
           "timer_default_seconds": 0
         },
         {
-          "key": "dbc_0x620_body_control_state_door_open_fl",
+          "key": "dbc_0x620_body_control_7ec164b1",
           "name": "Door Open Fl",
           "selection_group": "",
           "selection_state": "",
@@ -126,7 +126,7 @@
           "timer_default_seconds": 1
         },
         {
-          "key": "dbc_0x620_body_control_state_door_open_fr",
+          "key": "dbc_0x620_body_control_88c1746f",
           "name": "Door Open Fr",
           "selection_group": "",
           "selection_state": "",
@@ -140,7 +140,7 @@
           "timer_default_seconds": 1
         },
         {
-          "key": "dbc_0x620_body_control_state_door_open_rl",
+          "key": "dbc_0x620_body_control_7e8fc7e5",
           "name": "Door Open Rl",
           "selection_group": "",
           "selection_state": "",
@@ -154,7 +154,7 @@
           "timer_default_seconds": 1
         },
         {
-          "key": "dbc_0x620_body_control_state_door_open_rr",
+          "key": "dbc_0x620_body_control_908fe43b",
           "name": "Door Open Rr",
           "selection_group": "",
           "selection_state": "",
@@ -168,7 +168,7 @@
           "timer_default_seconds": 1
         },
         {
-          "key": "dbc_0x620_body_control_state_meter_dimmed",
+          "key": "dbc_0x620_body_control_a08106ab",
           "name": "Meter Dimmed",
           "selection_group": "",
           "selection_state": "",
@@ -182,7 +182,7 @@
           "timer_default_seconds": 0
         },
         {
-          "key": "dbc_0x620_body_control_state_parking_brake",
+          "key": "dbc_0x620_body_control_f10f785f",
           "name": "Parking Brake",
           "selection_group": "",
           "selection_state": "",
@@ -196,7 +196,7 @@
           "timer_default_seconds": 0
         },
         {
-          "key": "dbc_0x620_body_control_state_seatbelt_driver_unlatched",
+          "key": "dbc_0x620_body_control_f060e59d",
           "name": "Seatbelt Driver Unlatched",
           "selection_group": "",
           "selection_state": "",
@@ -210,7 +210,7 @@
           "timer_default_seconds": 0
         },
         {
-          "key": "dbc_0x622_light_stalk_auto_high_beam",
+          "key": "dbc_0x622_light_stalk_ad53ccc9",
           "name": "Auto High Beam",
           "selection_group": "",
           "selection_state": "",
@@ -224,7 +224,7 @@
           "timer_default_seconds": 0
         },
         {
-          "key": "dbc_0x622_light_stalk_daytime_running_light",
+          "key": "dbc_0x622_light_stalk_23bbef41",
           "name": "Daytime Running Light",
           "selection_group": "",
           "selection_state": "",
@@ -252,7 +252,7 @@
           "timer_default_seconds": 0
         },
         {
-          "key": "dbc_0x622_light_stalk_parking_light",
+          "key": "dbc_0x622_light_stalk_8d50e0c6",
           "name": "Parking Light",
           "selection_group": "",
           "selection_state": "",
@@ -266,7 +266,7 @@
           "timer_default_seconds": 0
         },
         {
-          "key": "dbc_0x623_certification_ecu_door_lock_feedback_light",
+          "key": "dbc_0x623_certificatio_22673bbf",
           "name": "Door Lock Feedback Light",
           "selection_group": "",
           "selection_state": "",
@@ -280,7 +280,7 @@
           "timer_default_seconds": 0
         },
         {
-          "key": "dbc_0x623_certification_ecu_keyfob_locking_feedback_light",
+          "key": "dbc_0x623_certificatio_9a6a7c95",
           "name": "Keyfob Locking Feedback Light",
           "selection_group": "",
           "selection_state": "",
@@ -294,7 +294,7 @@
           "timer_default_seconds": 1
         },
         {
-          "key": "dbc_0x623_certification_ecu_keyfob_unlocking_feedback_light",
+          "key": "dbc_0x623_certificatio_fe62a62a",
           "name": "Keyfob Unlocking Feedback Light",
           "selection_group": "",
           "selection_state": "",
@@ -308,7 +308,7 @@
           "timer_default_seconds": 1
         },
         {
-          "key": "dbc_0x638_door_locks_lock_status",
+          "key": "dbc_0x638_door_locks_l_3f72dd55",
           "name": "Lock Status",
           "selection_group": "",
           "selection_state": "",
@@ -322,7 +322,7 @@
           "timer_default_seconds": 0
         },
         {
-          "key": "dbc_0x638_door_locks_lock_status_changed",
+          "key": "dbc_0x638_door_locks_l_1f7c452a",
           "name": "Lock Status Changed",
           "selection_group": "",
           "selection_state": "",
@@ -336,7 +336,7 @@
           "timer_default_seconds": 0
         },
         {
-          "key": "dbc_0x638_door_locks_locked_via_keyfob",
+          "key": "dbc_0x638_door_locks_l_e9c06c4b",
           "name": "Locked Via Keyfob",
           "selection_group": "",
           "selection_state": "",
