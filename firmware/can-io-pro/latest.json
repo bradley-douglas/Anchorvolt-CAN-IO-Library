@@ -1,12 +1,11 @@
 {
   "schema": 1,
   "product": "CAN-IO-PRO",
-  "available": false,
-  "version": "10.0.1",
-  "url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/firmware/can-io-pro/packages/can-io-pro-10-0-1.avfw",
-  "sha256": "1ef6fd721296ab9790ce0306b60d0ca67f2a17ae0670b7e6f85910a175a5aebc",
-  "plaintext_sha256": "8b5f581fc71abb2d7e64f726b10b0792fed588ed1c040c7417a5d386e4803aec",
+  "available": true,
+  "version": "10.1.0",
+  "url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/firmware/can-io-pro/packages/can-io-pro-10-1-0.avfw",
+  "sha256": "26e675ce5443281c815b1863f77a3c03663e3d2140b16070282ce23d18c31bae",
+  "plaintext_sha256": "ea4751e0758171772977cbe152941e3b2cac0edb0ea4b2cc79480104e7e72a48",
   "package_format": "AVF1",
-  "key_version": 1,
-  "withdrawn_reason": "Firmware 10.0.1 withdrawn during pre-release testing"
+  "key_version": 1
 }
