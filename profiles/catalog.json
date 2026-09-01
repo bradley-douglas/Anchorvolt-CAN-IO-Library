@@ -10,8 +10,8 @@
       "status": "Released for use",
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
-      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024-bf2e9e856518501c.avp",
-      "sha256": "bf2e9e856518501c908b2ce905f8d0710aebf99c0e583e3f209d335e54b96d86",
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024-e56fdc9b8303d846.avp",
+      "sha256": "e56fdc9b8303d846c8e57308050fa037747e3fdf590538eb400364cad5a76db8",
       "functions": [
         {
           "key": "hazard_light",
