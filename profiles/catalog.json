@@ -10,8 +10,8 @@
       "status": "Released for use",
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
-      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024-9ded6b88a0c605b2.avp",
-      "sha256": "9ded6b88a0c605b2d7649118b21bfaf8e7ebc8bfba6e019a22c6ed78141e1308",
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024-40e65b9f1e304021.avp",
+      "sha256": "40e65b9f1e304021c962a841b409e83a8f4c40aa0aaa940ae49af81609e2bbbe",
       "functions": [
         {
           "key": "dbc_0x3bc_gear_packet_6c28458c",
@@ -216,26 +216,26 @@
           "selection_state": "",
           "state_output_allowed": true,
           "event_output_allowed": true,
-          "active_timer_allowed": false,
-          "inactive_timer_allowed": false,
-          "timer_mode": "none",
-          "timer_min_seconds": 0,
-          "timer_max_seconds": 0,
-          "timer_default_seconds": 0
+          "active_timer_allowed": true,
+          "inactive_timer_allowed": true,
+          "timer_mode": "delay_off",
+          "timer_min_seconds": 1,
+          "timer_max_seconds": 600,
+          "timer_default_seconds": 1
         },
         {
-          "key": "dbc_0x620_body_control_7e8fc7e5",
-          "name": "Door Open Rl",
+          "key": "dbc_0x620_body_control_88c1746f",
+          "name": "Door Open Fr",
           "selection_group": "",
           "selection_state": "",
           "state_output_allowed": true,
           "event_output_allowed": true,
-          "active_timer_allowed": false,
-          "inactive_timer_allowed": false,
-          "timer_mode": "none",
-          "timer_min_seconds": 0,
-          "timer_max_seconds": 0,
-          "timer_default_seconds": 0
+          "active_timer_allowed": true,
+          "inactive_timer_allowed": true,
+          "timer_mode": "delay_off",
+          "timer_min_seconds": 1,
+          "timer_max_seconds": 600,
+          "timer_default_seconds": 1
         }
       ]
     }
