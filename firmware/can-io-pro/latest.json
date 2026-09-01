@@ -4,8 +4,8 @@
   "available": true,
   "version": "9.0.9",
   "url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/firmware/can-io-pro/packages/can-io-pro-9-0-9.avfw",
-  "sha256": "c5c2c872dde2ebfd1327c5580d31628ab37ba0ce9c853d7836690f36ce96141f",
-  "plaintext_sha256": "fee788394ee1bc06b52d7be8e72a8e010deb300aa029c2d8c7c2f26e1cb2a125",
+  "sha256": "c7d47a6b5d1f8564ac1c65e1b5cb1115ccc03d996d4b76601bb40a8891011c1c",
+  "plaintext_sha256": "a7c36d444d070047cfd4901ecbf2d2bcc517a19c48ec66f3c4d786c0b0491480",
   "package_format": "AVF1",
   "key_version": 1
 }
