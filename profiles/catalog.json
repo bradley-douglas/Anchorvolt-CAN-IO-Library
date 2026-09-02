@@ -3,6 +3,94 @@
   "product": "CAN-IO-PRO",
   "profiles": [
     {
+      "id": "toy_hilux_2024",
+      "make": "toy",
+      "model": "hilux",
+      "year": "2024",
+      "status": "Released for use",
+      "can_protocol": "CAN FD",
+      "arbitration_bit_rate": 500000,
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toy-hilux-2024-1cd5636db04139f2.avp",
+      "sha256": "1cd5636db04139f21539373260767e0bea5b97137dbf7856b4d08df2d6e80842",
+      "functions": [
+        {
+          "key": "dbc_0x614_caniqpro_614_a865f0f7",
+          "name": "Test Indicators Right B3",
+          "selection_group": "",
+          "selection_state": "",
+          "mode": "state",
+          "signal_type": "digital",
+          "state_output_allowed": true,
+          "event_output_allowed": true,
+          "value_output_allowed": false,
+          "customer_condition_allowed": true,
+          "comparison_operators": [
+            "equals",
+            "not_equals"
+          ],
+          "unit": "",
+          "minimum_value": 0,
+          "maximum_value": 1,
+          "active_timer_allowed": false,
+          "inactive_timer_allowed": false,
+          "timer_mode": "none",
+          "timer_min_seconds": 0,
+          "timer_max_seconds": 0,
+          "timer_default_seconds": 0
+        },
+        {
+          "key": "dbc_0x614_caniqpro_614_25102a5c",
+          "name": "Test Indicators Left B3",
+          "selection_group": "",
+          "selection_state": "",
+          "mode": "state",
+          "signal_type": "digital",
+          "state_output_allowed": true,
+          "event_output_allowed": true,
+          "value_output_allowed": false,
+          "customer_condition_allowed": true,
+          "comparison_operators": [
+            "equals",
+            "not_equals"
+          ],
+          "unit": "",
+          "minimum_value": 0,
+          "maximum_value": 1,
+          "active_timer_allowed": false,
+          "inactive_timer_allowed": false,
+          "timer_mode": "none",
+          "timer_min_seconds": 0,
+          "timer_max_seconds": 0,
+          "timer_default_seconds": 0
+        },
+        {
+          "key": "dbc_0x614_caniqpro_614_6c9b34d2",
+          "name": "Test Indicators Hazards B3",
+          "selection_group": "",
+          "selection_state": "",
+          "mode": "state",
+          "signal_type": "digital",
+          "state_output_allowed": true,
+          "event_output_allowed": true,
+          "value_output_allowed": false,
+          "customer_condition_allowed": true,
+          "comparison_operators": [
+            "equals",
+            "not_equals"
+          ],
+          "unit": "",
+          "minimum_value": 0,
+          "maximum_value": 1,
+          "active_timer_allowed": false,
+          "inactive_timer_allowed": false,
+          "timer_mode": "none",
+          "timer_min_seconds": 0,
+          "timer_max_seconds": 0,
+          "timer_default_seconds": 0
+        }
+      ]
+    },
+    {
       "id": "toyota_hilux_4x4_dc_grs_2024",
       "make": "Toyota",
       "model": "Hilux 4x4 DC GRS",
@@ -10,8 +98,8 @@
       "status": "Released for use",
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
-      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024-febf707619b4e69e.avp",
-      "sha256": "febf707619b4e69ed429383c60e276d2d0f9672fd73096ddc48fc395ce532a37",
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024-43ec094ee0097e7a.avp",
+      "sha256": "43ec094ee0097e7afc5cf6e4934bdc1abbd3ed1d4657452010a9bc6ffa08079a",
       "functions": [
         {
           "key": "dbc_0x3bc_gear_packet_f70e52ef",
