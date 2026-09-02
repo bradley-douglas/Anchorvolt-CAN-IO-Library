@@ -1,7 +1,11 @@
 {
   "schema": 1,
   "product": "CAN-IO-PRO",
-  "available": false,
-  "version": "10.2.0",
-  "withdrawn_reason": "Withdrawn after physical hardware reproduced a startup heap-corruption boot loop while loading a stored 26-function profile. Recovery firmware is under OTA regression test."
+  "available": true,
+  "version": "10.4.1",
+  "url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/firmware/can-io-pro/packages/can-io-pro-10-4-1.avfw",
+  "sha256": "bddc3a84cbe37f5d8c84b76f0026e7d32995e698d4fbacf161006357fdde6301",
+  "plaintext_sha256": "4667ea4b6859f35af5afb3e5d29bc9d53f2f03865e0eae0a6ab51a6a662dae68",
+  "package_format": "AVF1",
+  "key_version": 1
 }
