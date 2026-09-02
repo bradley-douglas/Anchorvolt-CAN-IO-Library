@@ -10,8 +10,8 @@
       "status": "Released for use",
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
-      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toy-hilux-2024-6ad056a8cdfc13a1.avp",
-      "sha256": "6ad056a8cdfc13a1c71dda5ff5d0a38c8dad1c06bf67635aab4252a9f9d849df",
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toy-hilux-2024-2108ebef7047a7b6.avp",
+      "sha256": "2108ebef7047a7b6981eba198cbb6eeecebac398071e20d46728af9b5d471de8",
       "functions": [
         {
           "key": "dbc_0x614_caniqpro_614_a865f0f7",
@@ -98,8 +98,8 @@
       "status": "Released for use",
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
-      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toy2-test2-2024-dbcb651fbae66dda.avp",
-      "sha256": "dbcb651fbae66dda60f5ebe62580601d120145788fb78431307352982bc4c385",
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toy2-test2-2024-213ac48c1d481205.avp",
+      "sha256": "213ac48c1d481205764424c8f9fc5c1245fcf189571ebe71a0238dcc0d5b86a6",
       "functions": [
         {
           "key": "dbc_0x614_caniqpro_614_b7482e88",
@@ -211,8 +211,8 @@
       "status": "Released for use",
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
-      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024-e3bd443051c862b9.avp",
-      "sha256": "e3bd443051c862b961c0bad2154e5b21350c8f997497e3e854a2a55b16fa3996",
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024-353542eda39456d2.avp",
+      "sha256": "353542eda39456d2427dbbb417e636e03b30ddd619d196710c7dea115e6b55e8",
       "functions": [
         {
           "key": "dbc_0x3bc_gear_packet_0a4a7cf8",
