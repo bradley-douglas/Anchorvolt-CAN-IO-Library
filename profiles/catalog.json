@@ -10,8 +10,8 @@
       "status": "Released for use",
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
-      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toy-hilux-2024-1cd5636db04139f2.avp",
-      "sha256": "1cd5636db04139f21539373260767e0bea5b97137dbf7856b4d08df2d6e80842",
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toy-hilux-2024-5d05f378396902fb.avp",
+      "sha256": "5d05f378396902fb0f79a38d86edc0a44cf8e1e6f23839b8e3e1244fa4cbddfe",
       "functions": [
         {
           "key": "dbc_0x614_caniqpro_614_a865f0f7",
@@ -91,6 +91,119 @@
       ]
     },
     {
+      "id": "toy2_test2_2024",
+      "make": "toy2",
+      "model": "test2",
+      "year": "2024",
+      "status": "Released for use",
+      "can_protocol": "CAN FD",
+      "arbitration_bit_rate": 500000,
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toy2-test2-2024-8dc36d0e4015cce5.avp",
+      "sha256": "8dc36d0e4015cce58c140b7141d3910a535a9fcc8c22c1120747882c9adc6d2e",
+      "functions": [
+        {
+          "key": "dbc_0x614_caniqpro_614_b7482e88",
+          "name": "Flashers State B3 Left",
+          "selection_group": "Flashers State B3",
+          "selection_state": "Left",
+          "mode": "state",
+          "signal_type": "digital",
+          "state_output_allowed": true,
+          "event_output_allowed": false,
+          "value_output_allowed": false,
+          "customer_condition_allowed": true,
+          "comparison_operators": [
+            "equals",
+            "not_equals"
+          ],
+          "unit": "",
+          "minimum_value": 0,
+          "maximum_value": 7,
+          "active_timer_allowed": false,
+          "inactive_timer_allowed": false,
+          "timer_mode": "none",
+          "timer_min_seconds": 0,
+          "timer_max_seconds": 0,
+          "timer_default_seconds": 0
+        },
+        {
+          "key": "dbc_0x614_caniqpro_614_dbf22fb9",
+          "name": "Flashers State B3 Right",
+          "selection_group": "Flashers State B3",
+          "selection_state": "Right",
+          "mode": "state",
+          "signal_type": "digital",
+          "state_output_allowed": true,
+          "event_output_allowed": false,
+          "value_output_allowed": false,
+          "customer_condition_allowed": true,
+          "comparison_operators": [
+            "equals",
+            "not_equals"
+          ],
+          "unit": "",
+          "minimum_value": 0,
+          "maximum_value": 7,
+          "active_timer_allowed": false,
+          "inactive_timer_allowed": false,
+          "timer_mode": "none",
+          "timer_min_seconds": 0,
+          "timer_max_seconds": 0,
+          "timer_default_seconds": 0
+        },
+        {
+          "key": "dbc_0x614_caniqpro_614_679bd814",
+          "name": "Flashers State B3 Inactive",
+          "selection_group": "Flashers State B3",
+          "selection_state": "Inactive",
+          "mode": "state",
+          "signal_type": "digital",
+          "state_output_allowed": true,
+          "event_output_allowed": false,
+          "value_output_allowed": false,
+          "customer_condition_allowed": true,
+          "comparison_operators": [
+            "equals",
+            "not_equals"
+          ],
+          "unit": "",
+          "minimum_value": 0,
+          "maximum_value": 7,
+          "active_timer_allowed": false,
+          "inactive_timer_allowed": false,
+          "timer_mode": "none",
+          "timer_min_seconds": 0,
+          "timer_max_seconds": 0,
+          "timer_default_seconds": 0
+        },
+        {
+          "key": "dbc_0x614_caniqpro_614_c7cb4057",
+          "name": "Flashers State B3 Hazards",
+          "selection_group": "Flashers State B3",
+          "selection_state": "Hazards",
+          "mode": "state",
+          "signal_type": "digital",
+          "state_output_allowed": true,
+          "event_output_allowed": false,
+          "value_output_allowed": false,
+          "customer_condition_allowed": true,
+          "comparison_operators": [
+            "equals",
+            "not_equals"
+          ],
+          "unit": "",
+          "minimum_value": 0,
+          "maximum_value": 7,
+          "active_timer_allowed": false,
+          "inactive_timer_allowed": false,
+          "timer_mode": "none",
+          "timer_min_seconds": 0,
+          "timer_max_seconds": 0,
+          "timer_default_seconds": 0
+        }
+      ]
+    },
+    {
       "id": "toyota_hilux_4x4_dc_grs_2024",
       "make": "Toyota",
       "model": "Hilux 4x4 DC GRS",
@@ -98,8 +211,8 @@
       "status": "Released for use",
       "can_protocol": "CAN FD",
       "arbitration_bit_rate": 500000,
-      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024-43ec094ee0097e7a.avp",
-      "sha256": "43ec094ee0097e7afc5cf6e4934bdc1abbd3ed1d4657452010a9bc6ffa08079a",
+      "package_url": "https://raw.githubusercontent.com/bradley-douglas/Anchorvolt-CAN-IO-Library/main/profiles/packages/toyota-hilux-4x4-dc-grs-2024-1c6287391d3ecc08.avp",
+      "sha256": "1c6287391d3ecc084fd935f63846ebcb6979e2d8b3e75c6cd60a8565f2c46a24",
       "functions": [
         {
           "key": "dbc_0x3bc_gear_packet_f70e52ef",
